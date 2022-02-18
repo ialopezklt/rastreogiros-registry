@@ -1,0 +1,15 @@
+alive: cRastreoG.dc1 192.168.100.77:8302
+leave
+clock: 1
+alive: c_rastreog.dc-rastreo-giros 192.168.100.77:8302
+leave
+clock: 2
+alive: c_rastreog.dc-rastreo-giros 192.168.100.77:8302
+leave
+clock: 3
+alive: c_rastreog.dc-rastreo-giros 192.168.100.77:8302
+leave
+clock: 4
+alive: nodo1.clusterrastreogiros 127.0.0.1:8302
+leave
+clock: 5

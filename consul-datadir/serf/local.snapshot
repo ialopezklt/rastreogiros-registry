@@ -1,0 +1,20 @@
+alive: cRastreoG 192.168.100.77:8301
+leave
+clock: 1
+alive: cRastreoG 192.168.100.77:8301
+leave
+clock: 2
+alive: c_rastreog 192.168.100.77:8301
+leave
+clock: 3
+alive: c_rastreog 192.168.100.77:8301
+leave
+clock: 4
+alive: c_rastreog 192.168.100.77:8301
+event-clock: 1
+leave
+clock: 5
+alive: nodo1 127.0.0.1:8301
+event-clock: 1
+leave
+clock: 6
